@@ -162,6 +162,7 @@ Practice your skills with these vulnerable applications and challenges.
 11. [AI Goat](https://github.com/dhammon/ai-goat) - Vulnerable LLM CTF built on AWS.
 12. [Microsoft AI Red Teaming Playground Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - Hands-on red-teaming challenges (prompt injection, indirect injection, guardrail bypass) with Docker/Kubernetes deployment.
 13. [PortSwigger Web Security Academy: Web LLM Attacks](https://portswigger.net/web-security/llm-attacks) - Free official hands-on labs on exploiting LLM APIs, excessive agency, and prompt injection.
+14. [PromptTrace](https://prompttrace.airedlab.com) - Free hands-on labs and a progressive gauntlet for prompt injection, jailbreaks, RAG poisoning, and tool/function-call abuse against real LLMs.
 
 ## AI Red Teaming
 Resources and methodologies for red teaming AI/GenAI systems.
