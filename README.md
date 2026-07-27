@@ -150,19 +150,19 @@ Tools for defending, scanning, and auditing GenAI systems.
 Practice your skills with these vulnerable applications and challenges.
 
 1. [Gandalf - Lakera AI](https://gandalf.lakera.ai/) - LLM security challenge.
-2. [Prompt Airlines](https://promptairlines.com/) - AI security challenges, CTF style.
-3. [Certified AI/ML Pentester (C-AI/MLPen) Exam - The SecOps Group](https://pentestingexams.com/certifications/professional/certified-ai-ml-pentester/)
-4. [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - Deliberately vulnerable MCP implementation.
-5. [Vulnerable MCP Servers Lab](https://github.com/appsecco/vulnerable-mcp-servers-lab) - Collection of vulnerable servers.
-6. [FinBot Agentic AI CTF](https://genai.owasp.org/resource/finbot-agentic-ai-capture-the-flag-ctf-application/) - Agentic Security CTF.
-7. [OWASP WrongSecrets](https://owasp.org/www-project-wrongsecrets/) - Includes an LLM/AI secrets-leakage challenge.
-8. [Huntr.com](https://huntr.com/) - World’s first bug bounty platform for AI/ML.
-9. [HackAPrompt](https://www.aicrowd.com/challenges/hackaprompt-2023) - Prompt hacking competition.
-10. [Crucible by Dreadnode](https://crucible.dreadnode.io/) - AI/ML security challenges and CTFs.
-11. [AI Goat](https://github.com/dhammon/ai-goat) - Vulnerable LLM CTF built on AWS.
-12. [Microsoft AI Red Teaming Playground Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - Hands-on red-teaming challenges (prompt injection, indirect injection, guardrail bypass) with Docker/Kubernetes deployment.
-13. [PortSwigger Web Security Academy: Web LLM Attacks](https://portswigger.net/web-security/llm-attacks) - Free official hands-on labs on exploiting LLM APIs, excessive agency, and prompt injection.
-14. [PromptTrace](https://prompttrace.airedlab.com) - Free hands-on labs and a progressive gauntlet for prompt injection, jailbreaks, RAG poisoning, and tool/function-call abuse against real LLMs.
+2. [PromptTrace](https://prompttrace.airedlab.com) - Free hands-on labs and a progressive gauntlet for prompt injection, jailbreaks, RAG poisoning, and tool/function-call abuse against real LLMs.
+3. [Prompt Airlines](https://promptairlines.com/) - AI security challenges, CTF style.
+4. [Certified AI/ML Pentester (C-AI/MLPen) Exam - The SecOps Group](https://pentestingexams.com/certifications/professional/certified-ai-ml-pentester/)
+5. [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - Deliberately vulnerable MCP implementation.
+6. [Vulnerable MCP Servers Lab](https://github.com/appsecco/vulnerable-mcp-servers-lab) - Collection of vulnerable servers.
+7. [FinBot Agentic AI CTF](https://genai.owasp.org/resource/finbot-agentic-ai-capture-the-flag-ctf-application/) - Agentic Security CTF.
+8. [OWASP WrongSecrets](https://owasp.org/www-project-wrongsecrets/) - Includes an LLM/AI secrets-leakage challenge.
+9. [Huntr.com](https://huntr.com/) - World’s first bug bounty platform for AI/ML.
+10. [HackAPrompt](https://www.aicrowd.com/challenges/hackaprompt-2023) - Prompt hacking competition.
+11. [Crucible by Dreadnode](https://crucible.dreadnode.io/) - AI/ML security challenges and CTFs.
+12. [AI Goat](https://github.com/dhammon/ai-goat) - Vulnerable LLM CTF built on AWS.
+13. [Microsoft AI Red Teaming Playground Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - Hands-on red-teaming challenges (prompt injection, indirect injection, guardrail bypass) with Docker/Kubernetes deployment.
+14. [PortSwigger Web Security Academy: Web LLM Attacks](https://portswigger.net/web-security/llm-attacks) - Free official hands-on labs on exploiting LLM APIs, excessive agency, and prompt injection.
 
 ## AI Red Teaming
 Resources and methodologies for red teaming AI/GenAI systems.
